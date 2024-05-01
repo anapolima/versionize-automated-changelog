@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="1.1.0"></a>
+## [1.1.0](https://www.github.com/anapolima/versionize-automated-changelog/releases/tag/v1.1.0) (2024-05-01)
+
+### Features
+
+* Writes new message ([6812d5a](https://www.github.com/anapolima/versionize-automated-changelog/commit/6812d5a15bfd583f181321e13ec020cf804b1d64))
+
 <a name="1.0.0"></a>
 ## [1.0.0](https://www.github.com/anapolima/versionize-automated-changelog/releases/tag/v1.0.0) (2024-05-01)
 
