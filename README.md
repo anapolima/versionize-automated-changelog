@@ -1,3 +1,3 @@
 # versionize-automated-changelog
 
-Frist update
+First update
