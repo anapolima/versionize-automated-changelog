@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.0.0"></a>
+## [2.0.0](https://www.github.com/anapolima/versionize-automated-changelog/releases/tag/v2.0.0) (2024-05-01)
+
+### Features
+
+* Try breaking change again ([f847fad](https://www.github.com/anapolima/versionize-automated-changelog/commit/f847fadd17a1c74d3b4c268d03a7781f73520f39))
+
+### Breaking Changes
+
+* Try breaking change again ([f847fad](https://www.github.com/anapolima/versionize-automated-changelog/commit/f847fadd17a1c74d3b4c268d03a7781f73520f39))
+
 <a name="1.1.2"></a>
 ## [1.1.2](https://www.github.com/anapolima/versionize-automated-changelog/releases/tag/v1.1.2) (2024-05-01)
 
