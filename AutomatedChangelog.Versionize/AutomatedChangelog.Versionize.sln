@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedChangelog.Versionize", "AutomatedChangelog.Versionize\AutomatedChangelog.Versionize.csproj", "{88EE63DD-CD79-4A1F-8BF1-0CCD0201366D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88EE63DD-CD79-4A1F-8BF1-0CCD0201366D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EE63DD-CD79-4A1F-8BF1-0CCD0201366D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EE63DD-CD79-4A1F-8BF1-0CCD0201366D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EE63DD-CD79-4A1F-8BF1-0CCD0201366D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
